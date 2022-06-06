@@ -38,3 +38,11 @@
   color: #88c640;
 }
 
+@media only screen and (max-width: 500px) {
+  .App-logo{
+    width: 100%;
+  }
+  .div-dev{
+    margin-top: -100%;
+  }
+}
