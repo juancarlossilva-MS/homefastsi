@@ -38,18 +38,3 @@
   color: #88c640;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .div-dev{
-    animation: App-name-flash infinite 20s linear;
-  }
-}
-
-@keyframes App-name-flash {
-    from{
-      color:white
-    }
-    to{
-      color: #88c640;
-    }
-  
-}
